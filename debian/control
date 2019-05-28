@@ -1,0 +1,33 @@
+Source: zimg-dmo
+Section: libs
+Priority: optional
+Maintainer: Christian Marillat <marillat@deb-multimedia.org>
+Bugs: mailto:marillat@deb-multimedia.org
+Homepage: https://github.com/sekrit-twc/zimg
+Standards-Version: 4.2.1
+Build-Depends: debhelper (>= 11)
+
+Package: libzimg2
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: scaling, colorspace conversion and dithering library
+ The "z" library implements the commonly required image processing basics of
+ scaling, colorspace conversion, and depth conversion. A simple API enables
+ conversion between any supported formats to operate with minimal knowledge
+ from the programmer. All library routines were designed from the ground-up
+ with flexibility, thread-safety, and correctness as first priorities. 
+ Allocation, buffering, and I/O are cleanly separated from processing,
+ allowing the programmer to adapt "z" to many scenarios.
+
+Package: libzimg-dev
+Architecture: any
+Section: libdevel
+Depends: ${misc:Depends}, libzimg2 (= ${binary:Version})
+Description: development files for the zimg library
+ The "z" library implements the commonly required image processing basics of
+ scaling, colorspace conversion, and depth conversion. A simple API enables
+ conversion between any supported formats to operate with minimal knowledge
+ from the programmer. All library routines were designed from the ground-up
+ with flexibility, thread-safety, and correctness as first priorities. 
+ Allocation, buffering, and I/O are cleanly separated from processing,
+ allowing the programmer to adapt "z" to many scenarios.
