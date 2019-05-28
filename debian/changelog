@@ -1,0 +1,119 @@
+zimg (2.8) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sun, 21 Oct 2018 09:35:43 +0200
+
+zimg-dmo (2.7.5-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sat, 14 Jul 2018 09:02:24 +0200
+
+zimg-dmo (2.7.4-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Thu, 08 Feb 2018 08:42:08 +0100
+
+zimg-dmo (2.7.3a-dmo1) unstable; urgency=medium
+
+  * New upstream bugfix release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 05 Feb 2018 08:41:11 +0100
+
+zimg-dmo (2.7.3-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Thu, 01 Feb 2018 08:41:49 +0100
+
+zimg-dmo (2.7.2-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Tue, 30 Jan 2018 09:02:31 +0100
+
+zimg-dmo (2.7.1-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sun, 14 Jan 2018 08:42:16 +0100
+
+zimg-dmo (2.7-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sun, 31 Dec 2017 17:41:58 +0100
+
+zimg-dmo (2.6.3-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Wed, 22 Nov 2017 08:45:57 +0100
+
+zimg-dmo (2.6.2-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Fri, 10 Nov 2017 23:10:47 +0100
+
+zimg-dmo (2.6.1-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Tue, 05 Sep 2017 17:12:18 +0200
+
+zimg-dmo (2.6a-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Tue, 15 Aug 2017 08:49:39 +0200
+
+zimg-dmo (2.5.1-dmo2) unstable; urgency=medium
+
+  * Rebuild. Armel packages seems to be broken.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Wed, 19 Jul 2017 09:08:29 +0200
+
+zimg-dmo (2.5.1-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 05 Jun 2017 09:57:30 +0200
+
+zimg (2.4-1~zesty) zesty; urgency=low
+
+  * New upstream release
+
+ -- Marshall Banana <djcj@gmx.de>  Fri, 03 Feb 2017 10:21:08 +0100
+
+zimg (2.3-1~trusty) trusty; urgency=low
+
+  * New upstream release
+
+ -- Marshall Banana <djcj@gmx.de>  Tue, 01 Nov 2016 14:00:54 +0100
+
+zimg (2.2.1-1~trusty) trusty; urgency=low
+
+  * New upstream release
+
+ -- Marshall Banana <djcj@gmx.de>  Tue, 30 Aug 2016 02:07:24 +0200
+
+zimg (2.0.4-1~trusty) trusty; urgency=low
+
+  * New upstream release
+
+ -- Marshall Banana <djcj@gmx.de>  Sat, 06 Feb 2016 19:08:08 +0100
+
+zimg (2.0.2-1~trusty) trusty; urgency=low
+
+  * Initial release
+
+ -- Marshall Banana <djcj@gmx.de>  Fri, 18 Dec 2015 07:08:37 +0100
+
+zimg (2.0.2) UNRELEASED; urgency=low
+
+  * Debianized
+
+ -- Marshall Banana <djcj@gmx.de>  Fri, 18 Dec 2015 07:00:00 +0100
